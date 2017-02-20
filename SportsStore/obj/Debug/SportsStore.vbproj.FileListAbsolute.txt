@@ -1,0 +1,14 @@
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\SportsStore.dll.config
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\SportsStore.dll
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\SportsStore.pdb
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\SportsStore.xml
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\EntityFramework.dll
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\EntityFramework.SqlServer.dll
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\EntityFramework.xml
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\bin\EntityFramework.SqlServer.xml
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.vbprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.Resources.resources
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.vbproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.xml
+c:\users\simon\documents\visual studio 2013\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.pdb

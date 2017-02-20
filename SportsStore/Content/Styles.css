@@ -1,0 +1,100 @@
+﻿body {
+    font-family: Cambria, Georgia, "Times New Roman";
+    margin: 0;
+    width: 98%;
+}
+
+div#header div.title, div.item h3, div.item h4, div.pager button {
+    font-family: "Arial Narrow", "Franklin Gothic Medium", Arial;
+    font-weight: bold;
+    font-size:   1em;
+}
+
+div#header {
+    background-color: rgba(0,4,68,1.0);
+    border-bottom: 2px solid rgba(0,1,17,1.0);
+    color: white;
+}
+
+div#header div.title {
+    font-size:   2em;
+    padding:     .6em;
+}
+
+div#content {
+    border-left: 2px solid rgba(110,103,103,1.0);
+    margin-left: 9em;
+    padding:     1em;
+}
+
+div#categories {
+    float:    left;
+    width:    8em;
+    padding:  .3em;
+}
+
+div.item {
+    border-top:     1px dotted rgba(110,103,103,1.0);
+    padding-top:    .7em;
+    margin-bottom:  .7em;
+}
+
+div.item:first-child {
+    border-top:     none;
+    padding-top:    0;
+}
+
+div.item h3 {
+    font-size:      1.3em;
+    margin:         0 0 .25em 0;
+}
+
+div.item h4 {
+    font-size:      1.1em;
+    margin:         .4em 0 0 0; 
+}
+
+div.pager {
+    text-align:     right;
+    border-top:     2px solid rgba(220,212,212,1.0);
+    padding:        .5em 0 0 0;
+    margin-top:     1em;
+}
+
+input.nav-button {
+    font-size:           1.1em;
+    background-color:   rgba(0,6,102,1.0);
+    color:              white;
+    text-decoration:     none;
+    padding:             0 .4em 0 .4em;
+    margin-left:         10px;
+}
+
+div#categories a {
+    font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial;
+    display: block;
+    text-decoration: none;
+    padding: .6em;
+    color: Black;
+    border-bottom: 1px solid silver;
+}
+
+div#categories a.selected { 
+    background-color: #666;
+    color: White;
+}
+
+div#categories a:hover {
+    background-color: #CCC;
+}
+
+div#categories a.selected:hover {
+    background-color: #666;
+}
+
+div.item button {
+    color:White;
+    background-color: #333;
+    border: 1px solid black;
+    float: right;
+}
